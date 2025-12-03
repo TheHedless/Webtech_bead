@@ -1,0 +1,15 @@
+python -m http.server 8000
+
+Pilsner Urquell
+{
+  "type": "Pilsner",
+  "size": "0.5L",
+  "manufacturer": "Pilsner Urquell Brewery"
+}
+
+Pyromania
+{
+  "type": "Ale",
+  "size": "0,33L",
+  "manufacturer": "Rothbeer"
+}
